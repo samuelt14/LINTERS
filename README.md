@@ -74,7 +74,7 @@ Clona el repositorio e instala las dependencias:
 
 ```bash
 git clone https://github.com/samuelt14/LINTERS.git
-cd Proyecto_formulario
+cd LINTERS
 npm install
 Instala herramientas de desarrollo:
 ```
