@@ -3,6 +3,7 @@ body {
   margin: 0;
 }
 
+/* styles */
 body::before {
   content: " ";
   position: fixed;
